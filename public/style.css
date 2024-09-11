@@ -1,10 +1,10 @@
-*{
+git remote add origin https://github.com/amitKumar1510/TO-DO-list-using-node.git*{
     font-family: cursive;
     box-sizing: border-box;
   }
   
   h1 {
-    padding: 10px;
+    padding: 100px;
   }
   
   .box {
